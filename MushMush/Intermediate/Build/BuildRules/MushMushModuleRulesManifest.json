@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Game Development\\Gabbi's Capstone\\Project\\Gabbi_Capstone\\MushMush\\Source\\MushMush\\MushMush.Build.cs",
-		"D:\\Game Development\\Gabbi's Capstone\\Project\\Gabbi_Capstone\\MushMush\\Source\\MushMush.Target.cs",
-		"D:\\Game Development\\Gabbi's Capstone\\Project\\Gabbi_Capstone\\MushMush\\Source\\MushMushEditor.Target.cs"
+		"D:\\miles\\Documents\\Unreal Projects\\Gabbi_Capstone\\MushMush\\Source\\MushMush\\MushMush.Build.cs",
+		"D:\\miles\\Documents\\Unreal Projects\\Gabbi_Capstone\\MushMush\\Source\\MushMush.Target.cs",
+		"D:\\miles\\Documents\\Unreal Projects\\Gabbi_Capstone\\MushMush\\Source\\MushMushEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.0"
+	"EngineVersion": "4.27.2"
 }

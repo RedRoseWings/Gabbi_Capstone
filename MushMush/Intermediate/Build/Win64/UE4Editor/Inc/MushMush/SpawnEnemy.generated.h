@@ -58,7 +58,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASpawnEnemy)
 
 
-#define MushMush_Source_MushMush_SpawnEnemy_h_12_PRIVATE_PROPERTY_OFFSET
+#define MushMush_Source_MushMush_SpawnEnemy_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__ActorToSpawn() { return STRUCT_OFFSET(ASpawnEnemy, ActorToSpawn); }
+
+
 #define MushMush_Source_MushMush_SpawnEnemy_h_9_PROLOG
 #define MushMush_Source_MushMush_SpawnEnemy_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

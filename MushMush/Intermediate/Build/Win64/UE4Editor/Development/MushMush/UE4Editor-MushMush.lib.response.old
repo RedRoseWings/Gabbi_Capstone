@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MushMush.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\MushMushEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\MushMush.cpp.obj"
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\SpawnEnemy.cpp.obj"
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\MushMush.init.gen.cpp.obj"
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\SpawnEnemy.gen.cpp.obj"
+"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\Default.rc2.res"
+/OUT:"D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Intermediate\Build\Win64\UE4Editor\Development\MushMush\UE4Editor-MushMush.lib"
