@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MushMush",
+			"Path": "D:\\Game Development\\Gabbi's Capstone\\Project\\Gabbi_Capstone\\MushMush\\Source\\MushMush.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MushMushEditor",
+			"Path": "D:\\Game Development\\Gabbi's Capstone\\Project\\Gabbi_Capstone\\MushMush\\Source\\MushMushEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
