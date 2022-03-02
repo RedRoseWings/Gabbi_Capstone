@@ -91,3 +91,5 @@ Build/Android/res/*/*
 !Build/Android/res/*/*.png
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+MushMush/Saved/Crashes/
+MushMush/Saved/Config/CrashReportClient/

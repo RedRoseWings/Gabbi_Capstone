@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMushMush_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x973FC33E,
+				0xACFBA9D8,
 				0x643A614B,
 				METADATA_PARAMS(nullptr, 0)
 			};

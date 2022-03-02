@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MushMush.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{26881E4A-AE2A-41D1-9C5A-3145252383AF}</UniqueIdentifier>
+      <UniqueIdentifier>{5AA79A5F-0E54-49C3-AE41-37A209011D7E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MushMush.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{470D0B70-B902-4BE8-A173-E33D931BA09A}</UniqueIdentifier>
+      <UniqueIdentifier>{C2F9EC6F-9574-4FB8-919D-57D09FCBBE8B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\MushMush">
-      <UniqueIdentifier>{B73E2DF0-4E5A-4C5F-8685-5B35A8DBAFA1}</UniqueIdentifier>
+      <UniqueIdentifier>{DFC7E2FE-8150-4D88-843C-44EF23C389E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MushMush\MushMush.Build.cs">
       <Filter>Source\MushMush</Filter>
