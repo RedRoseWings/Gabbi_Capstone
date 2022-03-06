@@ -921,3 +921,149 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.06-19.05.57:833][  1]LogAssetRegistry: Asset discovery search completed in 29.3464 seconds
 [2022.03.06-19.05.57:843][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2022.03.06-19.05.58:818][  4]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.06-19.26.27:396][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.03.06-19.26.29:323][171]LogBlueprint: Warning: [AssetLog] D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Content\MushMush_ThirdPersonBP\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'UseItem_3' for  InputAction UseItem_3
+[2022.03.06-19.26.29:323][171]LogBlueprint: Warning: [AssetLog] D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Content\MushMush_ThirdPersonBP\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'UseItem_2' for  InputAction UseItem_2
+[2022.03.06-19.26.29:323][171]LogBlueprint: Warning: [AssetLog] D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Content\MushMush_ThirdPersonBP\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'UseItem_1' for  InputAction UseItem_1
+[2022.03.06-19.26.29:323][171]LogBlueprint: Warning: [AssetLog] D:\Game Development\Gabbi's Capstone\Project\Gabbi_Capstone\MushMush\Content\MushMush_ThirdPersonBP\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'UseItem_Q' for  InputAction UseItem_Q
+[2022.03.06-19.26.31:405][171]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: B053E766DFB02277C274685DA5E2D6521F4ECD72), compiling. 
+[2022.03.06-19.26.31:615][171]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.03.06-19.26.31:644][171]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2022.03.06-19.26.31:644][171]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.03.06-19.26.31:644][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.03.06-19.26.31:644][171]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.03.06-19.26.31:644][171]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.31:644][171]LogMaterial: Display: Missing cached shadermap for M_Radial_Gradient in PCD3D_SM5, Default, SM5 (DDC key hash: C2841E0F8E4F4CD1405007261DBF6D4E41A213EC), compiling. 
+[2022.03.06-19.26.31:687][171]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.03.06-19.26.31:688][171]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: B56B1E9EAB1AA325F6F927E45362DB6C77154A07), compiling. 
+[2022.03.06-19.26.31:713][171]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2022.03.06-19.26.32:947][171]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MushMush_ThirdPersonBP/Maps/AI_Test_Map.AI_Test_Map
+[2022.03.06-19.26.32:967][171]Cmd: MAP LOAD FILE="../../../../../../Game Development/Gabbi's Capstone/Project/Gabbi_Capstone/MushMush/Content/MushMush_ThirdPersonBP/Maps/AI_Test_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.06-19.26.32:967][171]LightingResults: New page: Lighting Build
+[2022.03.06-19.26.32:968][171]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.03.06-19.26.32:969][171]LoadErrors: New page: Loading map: AI_Test_Map.umap
+[2022.03.06-19.26.33:011][171]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-19.26.33:012][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-19.26.33:057][171]MapCheck: New page: Map Check
+[2022.03.06-19.26.33:058][171]LightingResults: New page: Lighting Build
+[2022.03.06-19.26.33:063][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-19.26.33:069][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.03.06-19.26.33:069][171]LogAudio: Display: Audio Device (ID: 1) registered with world 'AI_Test_Map'.
+[2022.03.06-19.26.33:532][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.06-19.26.33:532][171]LogAIModule: Creating AISystem for world AI_Test_Map
+[2022.03.06-19.26.33:728][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.06-19.26.33:755][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.06-19.26.33:764][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.852ms to complete.
+[2022.03.06-19.26.33:764][171]LogFileHelpers: Loading map 'AI_Test_Map' took 0.797
+[2022.03.06-19.26.36:886][396]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/MushMush_ThirdPersonBP/AI/NPC_BT.NPC_BT
+[2022.03.06-19.26.37:519][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushMush_ThirdPersonBP/AI/NPC.NPC
+[2022.03.06-19.26.38:228][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 92
+[2022.03.06-19.26.38:228][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.38:433][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2022.03.06-19.26.38:433][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.38:433][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2022.03.06-19.26.38:433][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.38:715][396]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2022.03.06-19.26.40:413][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2022.03.06-19.26.40:413][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.40:787][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushMush_ThirdPersonBP/AI/AttackPlayer.AttackPlayer
+[2022.03.06-19.26.40:852][396]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.06-19.26.40:853][396]LogShaderCompilers: Display: Total job queries 132, among them cache hits 0 (0.00%)
+[2022.03.06-19.26.40:853][396]LogShaderCompilers: Display: Tracking 40 distinct input hashes that result in 29 distinct outputs (72.50%)
+[2022.03.06-19.26.40:853][396]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.03.06-19.26.40:853][396]LogShaderCompilers: Display: ================================================
+[2022.03.06-19.26.41:763][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2022.03.06-19.26.41:763][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.41:763][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2022.03.06-19.26.41:763][396]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.41:802][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushMush_ThirdPersonBP/Blueprints/Player.Player
+[2022.03.06-19.26.41:881][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2022.03.06-19.26.41:881][396]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.42:687][396]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MushMush_ThirdPersonBP/Crafting/UI/Dialogue_UI.Dialogue_UI
+[2022.03.06-19.26.43:742][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.03.06-19.26.43:742][396]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.43:787][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushMush_ThirdPersonBP/Blueprints/Dialogue/Signpost_BP.Signpost_BP
+[2022.03.06-19.26.44:404][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.03.06-19.26.44:404][396]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.44:405][396]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.03.06-19.26.44:405][396]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.44:700][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.03.06-19.26.44:700][396]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.44:721][396]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MushMush_ThirdPersonBP/Blueprints/Dialogue/Interact_I.Interact_I
+[2022.03.06-19.26.45:288][396]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.03.06-19.26.45:288][396]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.03.06-19.26.46:444][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.06-19.26.46:469][396]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.06-19.26.47:656][397]LogSlate: Took 0.008880 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.06-19.26.57:112][254]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-19.26.57:124][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-19.26.57:728][299]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-19.26.57:728][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-19.27.01:725][679]LogSlate: Window 'Interact_I' being destroyed
+[2022.03.06-19.27.03:871][913]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.06-19.27.03:990][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.06-19.27.04:063][913]PIE: New page: PIE session: AI_Test_Map (Mar 6, 2022, 3:27:04 AM)
+[2022.03.06-19.27.04:086][913]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.06-19.27.04:101][913]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.06-19.27.04:102][913]LogPlayLevel: Creating play world package: /Game/MushMush_ThirdPersonBP/Maps/UEDPIE_0_AI_Test_Map
+[2022.03.06-19.27.04:195][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086154s)
+[2022.03.06-19.27.04:210][913]LogAIModule: Creating AISystem for world AI_Test_Map
+[2022.03.06-19.27.04:229][913]LogPlayLevel: PIE: World Init took: (0.034319s)
+[2022.03.06-19.27.04:229][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MushMush_ThirdPersonBP/Maps/AI_Test_Map.AI_Test_Map to /Game/MushMush_ThirdPersonBP/Maps/UEDPIE_0_AI_Test_Map.AI_Test_Map (0.127616s)
+[2022.03.06-19.27.04:347][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.03.06-19.27.04:352][913]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.06-19.27.04:352][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.06-19.27.04:352][913]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.06-19.27.04:352][913]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.06-19.27.04:352][913]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.06-19.27.04:352][913]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 1: FrontRight
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 4: BackLeft
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 5: BackRight
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 6: SideLeft
+[2022.03.06-19.27.04:356][913]LogAudioMixer: Display: 7: SideRight
+[2022.03.06-19.27.04:367][913]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2022.03.06-19.27.04:367][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.06-19.27.04:367][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.06-19.27.04:367][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.06-19.27.04:368][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.06-19.27.04:368][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.06-19.27.04:368][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.06-19.27.04:369][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.06-19.27.04:369][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.06-19.27.04:369][913]LogInit: FAudioDevice initialized.
+[2022.03.06-19.27.04:369][913]LogAudio: Display: Audio Device (ID: 2) registered with world 'AI_Test_Map'.
+[2022.03.06-19.27.04:599][913]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.06-19.27.04:619][913]LogWorld: Bringing World /Game/MushMush_ThirdPersonBP/Maps/UEDPIE_0_AI_Test_Map.AI_Test_Map up for play (max tick rate 0) at 2022.03.06-11.27.04
+[2022.03.06-19.27.04:767][913]LogWorld: Bringing up level for play took: 0.166619
+[2022.03.06-19.27.04:767][913]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.06-19.27.04:878][913]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.06-19.27.04:954][913]PIE: Server logged in
+[2022.03.06-19.27.04:956][913]PIE: Play in editor total start time 0.992 seconds.
+[2022.03.06-19.27.10:593][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-19.27.10:593][497]LogWorld: BeginTearingDown for /Game/MushMush_ThirdPersonBP/Maps/UEDPIE_0_AI_Test_Map
+[2022.03.06-19.27.10:594][497]LogWorld: UWorld::CleanupWorld for AI_Test_Map, bSessionEnded=true, bCleanupResources=true
+[2022.03.06-19.27.10:594][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-19.27.10:694][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.06-19.27.10:699][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.06-19.27.10:736][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.06-19.27.10:740][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-19.27.10:741][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.06-19.27.10:744][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.06-19.27.10:800][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.03.06-19.27.10:857][498]LogPlayLevel: Display: Destroying online subsystem :Context_10
