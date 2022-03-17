@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "MushMush",
-			"Path": "D:\\miles\\Documents\\Unreal Projects\\Gabbi_Capstone\\MushMush\\Source\\MushMush.Target.cs",
+			"Path": "F:\\Documents\\Unreal\\MushMush\\Source\\MushMush.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "MushMushEditor",
-			"Path": "D:\\miles\\Documents\\Unreal Projects\\Gabbi_Capstone\\MushMush\\Source\\MushMushEditor.Target.cs",
+			"Path": "F:\\Documents\\Unreal\\MushMush\\Source\\MushMushEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
